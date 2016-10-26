@@ -82,19 +82,19 @@ Abstraction/imagination
 
 ### Some Map Types
 
-	- [Chloropleth - Alcohol consumption](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_Alcohol_PerCapitaConsumption_2015.png) [Another version](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_consumption_percapita_2010.png)
-	- [Category - Immigrant Jobs](http://www.businessinsider.com/immigrant-jobs-state-map-2015-8)
-	- [Cluster](http://designarchives.aiga.org/#/entries/map/_/detail/relevance/asc/2/7/1141/election-maps-the-new-york-times/1) NYT Elections by county 2004. Steve Duenes et al.
-	- [Dotmaps - 1 dot per person USA](http://demographics.coopercenter.org/DotMap/)
-	- [Cartogram](http://www.npr.org/2016/05/10/477190080/demographics-and-history-tilt-the-map-in-clintons-favor-over-trump) NPR Election Cartogram 2016 (May). Domenico Montanaro
-	- [Diagrams -1972 Subway](http://www.nycsubway.org/perl/caption.pl?/img/maps/system_1972.jpg)
+- [Chloropleth - Alcohol consumption](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_Alcohol_PerCapitaConsumption_2015.png) [Another version](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_consumption_percapita_2010.png)
+- [Category - Immigrant Jobs](http://www.businessinsider.com/immigrant-jobs-state-map-2015-8)
+- [Cluster](http://designarchives.aiga.org/#/entries/map/_/detail/relevance/asc/2/7/1141/election-maps-the-new-york-times/1) NYT Elections by county 2004. Steve Duenes et al.
+- [Dotmaps - 1 dot per person USA](http://demographics.coopercenter.org/DotMap/)
+- [Cartogram](http://www.npr.org/2016/05/10/477190080/demographics-and-history-tilt-the-map-in-clintons-favor-over-trump) NPR Election Cartogram 2016 (May). Domenico Montanaro
+- [Diagrams -1972 Subway](http://www.nycsubway.org/perl/caption.pl?/img/maps/system_1972.jpg)
 	
 
 ### Map Terms
 
-	- Raster - Representation of the world with few points tying it to the real world, limited scalability.
-	- Vector - Each point and object is scaled to real things in the world. Consist of many geo-referenced locations with all points, lines, and polygons scaled to match.
-		- NYPL Rectifying Project: [Map Warper](http://maps.nypl.org/warper/)
-	- Tiles - Vector tiles allow zooming without having to re-render the entire map. Consist of many many layers
+- Raster - Representation of the world with few points tying it to the real world, limited scalability.
+- Vector - Each point and object is scaled to real things in the world. Consist of many geo-referenced locations with all points, lines, and polygons scaled to match.
+	- NYPL Rectifying Project: [Map Warper](http://maps.nypl.org/warper/)
+- Tiles - Vector tiles allow zooming without having to re-render the entire map. Consist of many many layers
 	
 
