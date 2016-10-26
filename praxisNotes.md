@@ -1,10 +1,10 @@
 
 # Digital Praxis Class | The Graduate Center at CUNY
-# Mapping in the Digital Humanities
-# October 26, 2016
+### Mapping in the Digital Humanities
+### October 26, 2016
 
 
-## Introduction (10)
+## Introduction 
 
 - What is a map? What makes it different from other types of visualizations?
 
@@ -18,22 +18,22 @@
 	- Would you have made different decisions? Why?
 	
 ### Mapping Examples
-	
-	[Citibikes](http://c4sr.columbia.edu/projects/citibike-rebalancing-study)
-	[Delivering post by foot medieval India](http://emilyfuhrman.co/interactive/F2015002/)
-	[Population Density 1790-2000](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=265&project_id=0) 2009. Killeen Hanson, Peter Shannon, Erik Steiner, and Richard White
-	[Migration Maps](http://metrocosm.com/global-immigration-map/) Max Galka 2015.
-	[Old NYC](http://www.oldnyc.org/) NYPL Labs
-	[Port to Port](http://spatialinformationdesignlab.org/project_sites/port_to_port/)
-	[Aleppo](http://c4sr.columbia.edu/conflict-urbanism-aleppo/)
 
-- Spatial Humanities or 'the Spatial Turn' (5)
+[Citibikes](http://c4sr.columbia.edu/projects/citibike-rebalancing-study)
+[Delivering post by foot medieval India](http://emilyfuhrman.co/interactive/F2015002/)
+[Population Density 1790-2000](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=265&project_id=0) 2009. Killeen Hanson, Peter Shannon, Erik Steiner, and Richard White
+[Migration Maps](http://metrocosm.com/global-immigration-map/) Max Galka 2015.
+[Old NYC](http://www.oldnyc.org/) NYPL Labs
+[Port to Port](http://spatialinformationdesignlab.org/project_sites/port_to_port/)
+[Aleppo](http://c4sr.columbia.edu/conflict-urbanism-aleppo/)
+
+- Spatial Humanities or 'the Spatial Turn' 
 	- Rise of GIS
 	- Ubiquity of mapping software ([Carto](https://carto.com/), [Mapbox](https://www.mapbox.com/), [QGIS](http://www.qgis.org/en/site/), [Storymaps](https://storymaps.arcgis.com/en/), etc.)
 	- Ability to ask new questions
 
 
-## How to do things with maps (40)
+## How to do things with maps 
 	
 - Basic Maps about people, places, and things
 	- [Language Map of NYC](http://www1.nyc.gov/assets/planning/html/data-maps/nyc-population/viz.html)
