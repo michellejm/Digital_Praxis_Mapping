@@ -82,7 +82,7 @@ Abstraction/imagination
 
 ### Some Map Types
 
-- [Chloropleth - Alcohol consumption](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_Alcohol_PerCapitaConsumption_2015.png) by WHO 2015.  [Another version](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_consumption_percapita_2010.png) also be WHO 2010
+- [Chloropleth - Alcohol consumption](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_Alcohol_PerCapitaConsumption_2015.png) by WHO 2015.  [Another version](http://gamapserver.who.int/mapLibrary/Files/Maps/Global_consumption_percapita_2010.png) also by WHO 2010
 - [Category - Immigrant Jobs](http://www.businessinsider.com/immigrant-jobs-state-map-2015-8)
 - [Cluster](http://designarchives.aiga.org/#/entries/map/_/detail/relevance/asc/2/7/1141/election-maps-the-new-york-times/1) NYT Elections by county 2004. Steve Duenes et al.
 - [Dotmaps - 1 dot per person USA](http://demographics.coopercenter.org/DotMap/)
